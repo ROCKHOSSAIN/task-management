@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg{
+    background-image: url('https://i.ibb.co/kyWzhyH/wepik-export-20231221073603-Fifz.jpg');
+   background-repeat: no-repeat;
+   /* background-attachment: fixed; */
+   background-position: center;
+   background-size: cover;
+   height: 100vh;
+   
+ 
+ }
